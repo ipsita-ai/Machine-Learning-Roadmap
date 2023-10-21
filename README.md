@@ -68,22 +68,28 @@ This is a curated roadmap to learn machine learning which contains both free and
 ##### 15. WhatsApp Chat Analysis Project - https://www.youtube.com/watch?v=Q0QwvZKG_6Q
  
 ### Topic 3 : Maths for Machine Learning
-https://www.coursera.org/specializations/mathematics-machine-learning
-https://www.coursera.org/specializations/statistics-with-python
+#### 1. Source 1-a :  https://www.coursera.org/specializations/mathematics-machine-learning
+#### 1. Source 1-b :https://www.coursera.org/specializations/statistics-with-python
 
 ### Topic 4 : Machine Learning
 https://www.youtube.com/watch?v=ZftI2fEz0Fw&list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH
 https://www.coursera.org/specializations/recommender-systems
 https://www.coursera.org/specializations/machine-learning-introduction
 
+#### Machine Learning End to End Projects 
+
 ### Topic 5 : Deep Learning
-https://www.coursera.org/specializations/tensorflow2-deeplearning
-https://www.coursera.org/specializations/ai-product-management-duke
-https://www.coursera.org/specializations/reinforcement-learning
+#### 1. Source 1-a :https://www.coursera.org/specializations/tensorflow2-deeplearning
+#### 1. Source 1-b :https://www.coursera.org/specializations/ai-product-management-duke
+#### 1. Source 1-c :https://www.coursera.org/specializations/reinforcement-learning
+#### 1. Source 1-d :https://www.coursera.org/specializations/deep-learning
 
 ### Topic 6 : Natural Language Processing
+
 ### Topic 7 : Computer Vision
+
 ### Topic 8 : ML OPS
+
 ### Topic 9 : ML System Design
 https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate
 
